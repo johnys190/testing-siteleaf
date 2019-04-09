@@ -1,6 +1,7 @@
 ---
 title: My Website
 date: 2019-04-09 17:38:00 +03:00
+permalink: "/"
 ---
 
 A Test content
